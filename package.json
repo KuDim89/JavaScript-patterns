@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/KuDim89/JavaScript-patterns.git",
   "author": "dkukharuk <dmytro.kukharuk@avenga.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^20.5.1",
+    "ts": "^0.2.2",
+    "typescript": "^5.2.2"
+  }
 }
