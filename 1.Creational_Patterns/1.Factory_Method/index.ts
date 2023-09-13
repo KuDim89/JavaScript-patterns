@@ -1,6 +1,6 @@
 /**
  * If you want to see result in console you will need to run this command in your terminal.
- * npx ts-node 1.Creational_Patterns/Factory_Method/index.ts
+ * npx ts-node 1.Creational_Patterns/1.Factory_Method/index.ts
  */
 
 import {Currencies} from "./types";

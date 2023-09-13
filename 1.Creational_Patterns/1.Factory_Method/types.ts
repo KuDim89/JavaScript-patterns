@@ -1,5 +1,3 @@
-export type CurrenciesType = 'usd' | 'uan';
-
 export enum Currencies {
   usd = "USD",
   uan = "UAN",
