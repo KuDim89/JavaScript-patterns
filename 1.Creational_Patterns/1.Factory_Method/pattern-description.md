@@ -25,3 +25,11 @@
 
 👎 - Can lead to creation of **huge parallel class hierarchies**, because for each product class need to create own 
 creator subclass.
+
+**Visual representation of the implementation using a table**:
+
+| BaseWallet  | Currency   |  
+|-------------|:----------:|
+| USDWallet   |  USDItem   |  
+| UANWallet   |  UANItem   |
+

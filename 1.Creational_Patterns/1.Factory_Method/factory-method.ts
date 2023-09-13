@@ -1,7 +1,3 @@
-/**
- * If you want to see result in console you will need to run this command in your terminal.
- * npx ts-node 1.Creational_Patterns/1.Factory_Method/factory-method.ts
- */
 import {Currencies, Currency} from "./types";
 
 
