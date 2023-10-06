@@ -5,7 +5,7 @@
 
 **Pattern structure :**
 
-![builder structure](../../assets/builder.png)
+![builder structure](../../assets/builder-structure.png)
 
 **Pattern implementation steps :**
 
