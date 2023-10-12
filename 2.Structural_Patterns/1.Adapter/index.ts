@@ -1,6 +1,6 @@
 /**
  * If you want to see result in console you will need to run this command in your terminal.
- * npx ts-node 2.Structural_Patterns/5.Adapter/index.ts
+ * npx ts-node 2.Structural_Patterns/1.Adapter/index.ts
  */
 
 import {Electric} from "./types";

@@ -19,4 +19,4 @@ logic of the program.\
 👍 - Open/Closed Principle. You can introduce new types of adapters into the program without breaking the existing 
 client code, as long as they work with the adapters through the client interface.
 
-👎 - Complicates the program code by introducing additional classes.\
+👎 - Complicates the program code by introducing additional classes.
