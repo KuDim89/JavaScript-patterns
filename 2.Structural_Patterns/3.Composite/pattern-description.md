@@ -1,6 +1,6 @@
 # Pattern Composite 🌳
 
-**Composite** - is a structural design pattern that allow you to create a tree of objects and works with it in the same 
+> **Composite** - is a structural design pattern that allow you to create a tree of objects and works with it in the same 
 way as with a single object.
 
 ![composite structure](../../assets/composite-structure.png)

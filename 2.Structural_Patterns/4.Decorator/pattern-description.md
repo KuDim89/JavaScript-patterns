@@ -1,6 +1,6 @@
 # Pattern Decorator 🎭 
 
-**Decorator or Wrapper** - is a structural design pattern that allow dynamically to add new functionality for objects by wrapping
+> **Decorator or Wrapper** - is a structural design pattern that allow dynamically to add new functionality for objects by wrapping
 them in useful wrappers. 
 
 ![decorator structure](../../assets/decorator-structure.png)
