@@ -20,5 +20,5 @@ them in useful wrappers.
 👍 - Сan add several new responsibilities at once.\
 👍 - Allow to have many small objects instead of one big object.
 
-👎 - Difficult to configure object with many wrappers.
+👎 - Difficult to configure object with many wrappers.\
 👎 - Many small classes.

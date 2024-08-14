@@ -22,5 +22,5 @@
 👍 - Can to control life cycle of service object.\
 👍 - Can to control life cycle of service object.
 
-👎 - Complicates the program code by introducing additional classes. 
+👎 - Complicates the program code by introducing additional classes.\
 👎 - Increases the response time from the server. 

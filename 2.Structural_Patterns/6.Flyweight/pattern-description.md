@@ -19,5 +19,5 @@ we create new object use flyweight class. After that we add this object in the c
 
 👍 - Economize RAM.
 
-👎 - Spends CPU time on searching and context calculation
+👎 - Spends CPU time on searching and context calculation.\
 👎 - Complicates the program code by introducing many additional classes.
