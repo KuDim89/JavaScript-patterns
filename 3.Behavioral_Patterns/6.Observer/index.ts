@@ -1,6 +1,6 @@
 /**
  * If you want to see result in console you will need to run this command in your terminal.
- * npx ts-node 3.Behavioral_Patterns/5.Memento/index.ts
+ * npx ts-node 3.Behavioral_Patterns/6.Observer/index.ts
  */
 
 import { Blog, User } from './observer';
